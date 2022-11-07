@@ -1,0 +1,66 @@
+body{
+    background-color: lightskyblue;
+    font-family: 'Lucida Sans', verdana, sans-serif;
+}
+#header{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#header h1{
+   text-align: center; 
+   color: darkslateblue;
+}
+p{
+    text-align: justify;
+    width: fit-content;
+}
+#header blockquote{
+    margin: auto;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aqua;
+    border: 1px dotted ;
+    text-align: center;
+    font-weight: bold;
+    color: red;
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+}
+.koleksi{
+    background-color: beige;
+}
+.koleksi img{
+    width: 23%;
+}
+.gambar{
+    text-align: center;
+    background-color: blueviolet; 
+}
+.gambar img{
+    width: 25%;
+}
+.
+.promo{
+    margin: auto;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    color: violet;
+}  
+.promo h4{
+    text-align: center;
+}  
+.promo ol{
+    background-color: yellowgreen;
+    border: 1px solid green; 
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+}
